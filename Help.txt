@@ -1,0 +1,21 @@
+💻REQUIRED LIBRARIES : 
+
+1)DHT Sensor Library
+2)Adafruit Unified Sensor
+3)RTClib
+4)LiquidCrystal_I2C
+5)Wire Library
+
+
+
+🚀HOW TO RUN THIS PROJECT : 
+
+1)Connect all components according to the circuit diagram.
+2)Install required libraries in Arduino IDE.
+3)Upload the Arduino code to Arduino Uno.
+4)Power the system.
+5)Observe readings on LCD displays.
+6)Buzzer activates if unsafe gas levels are detected.
+
+
+
